@@ -29,6 +29,7 @@ public class Main {
 
             while(op != 0)
             {
+
                 switch (op)
                 {
                     case 1:
@@ -36,6 +37,10 @@ public class Main {
                         num1 = sc.nextDouble();
                         logger.info("CALCULATING: the Square root of " + String.valueOf(num1));
                         logger.info("RESULT: Square Root of " + String.valueOf(num1) + " is " + calculator.squareRoot(num1));
+                        System.out.println("CALCULATING: the Square root of " + String.valueOf(num1));
+                        System.out.println("RESULT: Square Root of " + String.valueOf(num1) + " is " + calculator.squareRoot(num1));
+                        System.out.println("\n");
+                        System.out.println("Choose an option");
                         break;
 
                     case 2:
@@ -43,6 +48,10 @@ public class Main {
                         num1 = sc.nextDouble();
                         logger.info("CALCULATING: the factorial of " + String.valueOf(num1));
                         logger.info("RESULT: Factorial of " + String.valueOf(num1) + " is " + calculator.factorial(num1));
+                        System.out.println("CALCULATING: the factorial of " + String.valueOf(num1));
+                        System.out.println("RESULT: Factorial of " + String.valueOf(num1) + " is " + calculator.factorial(num1));
+                        System.out.println("\n");
+                        System.out.println("Choose an option");
                         break;
 
 
@@ -51,6 +60,10 @@ public class Main {
                         num1 = sc.nextDouble();
                         logger.info("CALCULATING: the Natural Logarithm of " + String.valueOf(num1));
                         logger.info("RESULT: Natural Logarithm of " + String.valueOf(num1) + " is " + calculator.logarithm(num1));
+                        System.out.println("CALCULATING: the Natural Logarithm of " + String.valueOf(num1));
+                        System.out.println("RESULT: Natural Logarithm of " + String.valueOf(num1) + " is " + calculator.logarithm(num1));
+                        System.out.println("\n");
+                        System.out.println("Choose an option");
                         break;
 
                     case 4:
@@ -60,10 +73,15 @@ public class Main {
                         num2 = sc.nextDouble();
                         logger.info("CALCULATING: the value of " + String.valueOf(num1) + " raised to " + String.valueOf(num2));
                         logger.info("RESULT: Value of " + String.valueOf(num1) + " to the power of " + String.valueOf(num2) + " is " + calculator.power(num1, num2));
+                        System.out.println("CALCULATING: the value of " + String.valueOf(num1) + " raised to " + String.valueOf(num2));
+                        System.out.println("RESULT: Value of " + String.valueOf(num1) + " to the power of " + String.valueOf(num2) + " is " + calculator.power(num1, num2));
+                        System.out.println("\n");
+                        System.out.println("Choose an option");
                         break;
 
                     default:
                         logger.error("Invalid option entered");
+                        System.out.println();
                         break;
                 }
 
