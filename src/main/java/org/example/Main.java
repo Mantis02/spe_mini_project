@@ -21,7 +21,6 @@ public class Main {
 
             Calculator calculator = new Calculator();
             logger.info("Calculator Object Ready");
-
             int op = sc.nextInt();
             double num1, num2;
 
