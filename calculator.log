@@ -1,0 +1,22 @@
+2023-04-08 14:02:38.909 [main] INFO  org.example.Calculator - Calculator Initialised
+2023-04-08 14:02:38.916 [main] INFO  org.example.Main - Calculator Object Ready
+2023-04-08 14:03:24.722 [main] INFO  org.example.Main - CALCULATING: the Square root of 4.0
+2023-04-08 14:03:24.727 [main] INFO  org.example.Main - RESULT: Square Root of 4.0 is 2.0
+2023-04-08 14:03:29.821 [main] INFO  org.example.Main - CALCULATING: the factorial of 3.0
+2023-04-08 14:03:29.821 [main] INFO  org.example.Main - RESULT: Factorial of 3.0 is 6.0
+2023-04-08 14:03:32.010 [main] INFO  org.example.Main - CALCULATING: the Natural Logarithm of 4.0
+2023-04-08 14:03:32.010 [main] INFO  org.example.Main - RESULT: Natural Logarithm of 4.0 is 1.3862943611198906
+2023-04-08 14:03:32.513 [main] ERROR org.example.Main - Invalid option entered
+2023-04-08 14:03:37.085 [main] INFO  org.example.Main - CALCULATING: the value of 3.0 raised to 3.0
+2023-04-08 14:03:37.119 [main] INFO  org.example.Main - RESULT: Value of 3.0 to the power of 3.0 is 27.0
+2023-04-08 14:03:39.070 [main] INFO  org.example.Main - CALCULATING: the Square root of 2.0
+2023-04-08 14:03:39.070 [main] INFO  org.example.Main - RESULT: Square Root of 2.0 is 1.4142135623730951
+2023-04-08 14:03:40.551 [main] INFO  org.example.Main - CALCULATING: the Square root of 2.0
+2023-04-08 14:03:40.551 [main] INFO  org.example.Main - RESULT: Square Root of 2.0 is 1.4142135623730951
+2023-04-08 14:03:41.449 [main] INFO  org.example.Main - CALCULATING: the Natural Logarithm of 2.0
+2023-04-08 14:03:41.449 [main] INFO  org.example.Main - RESULT: Natural Logarithm of 2.0 is 0.6931471805599453
+2023-04-08 14:03:45.299 [main] INFO  org.example.Main - CALCULATING: the factorial of 4.0
+2023-04-08 14:03:45.300 [main] INFO  org.example.Main - RESULT: Factorial of 4.0 is 24.0
+2023-04-08 14:03:48.261 [main] INFO  org.example.Main - CALCULATING: the value of 5.0 raised to 3.0
+2023-04-08 14:03:48.261 [main] INFO  org.example.Main - RESULT: Value of 5.0 to the power of 3.0 is 125.0
+2023-04-08 14:03:52.218 [main] INFO  org.example.Main - Exiting Calculator
