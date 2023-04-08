@@ -17,6 +17,7 @@ public class Main {
             System.out.println("4. Power of a function");
             System.out.println("0. Exit");
 
+
             Scanner sc = new Scanner(System.in);
 
             Calculator calculator = new Calculator();
