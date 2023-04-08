@@ -23,7 +23,6 @@ public class Main {
             logger.info("Calculator Object Ready");
 
             int op = sc.nextInt();
-
             double num1, num2;
 
             while(op != 0)
