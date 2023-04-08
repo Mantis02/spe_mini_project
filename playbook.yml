@@ -2,7 +2,7 @@
   hosts: all
   tasks:
     - name: pull docker image
-      shell: docker pull mantis02/spe-mini-project:latest
+      shell: docker pull mantis02/spe_mini_project:latest
 
     - name: Run the container
-      shell: docker run -itd mantis02/spe-mini-project:latest
+      shell: docker run -itd mantis02/spe_mini_project:latest
