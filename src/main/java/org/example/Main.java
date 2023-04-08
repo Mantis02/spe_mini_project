@@ -9,7 +9,6 @@ public class Main {
     private static final Logger logger = LogManager.getLogger(Main.class);
     public static void main(String[] args) {
 
-
             System.out.println("Welcome to the Calculator App");
             System.out.println("Please enter your selected choice");
             System.out.println("1. Calculate Square root");
