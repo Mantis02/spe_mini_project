@@ -85,6 +85,7 @@ public class Main {
 
                 op = sc.nextInt();
             }
+
         logger.info("Exiting Calculator");
         System.out.println("Byeee");
 
