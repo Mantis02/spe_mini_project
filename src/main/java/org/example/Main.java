@@ -64,6 +64,7 @@ public class Main {
                         System.out.println("Choose an option");
                         break;
 
+
                     case 4:
                         System.out.println("Enter a number for the base");
                         num1 = sc.nextDouble();
