@@ -53,6 +53,8 @@ public class Main {
                         break;
 
 
+
+
                     case 3:
                         System.out.println("Enter a number");
                         num1 = sc.nextDouble();
